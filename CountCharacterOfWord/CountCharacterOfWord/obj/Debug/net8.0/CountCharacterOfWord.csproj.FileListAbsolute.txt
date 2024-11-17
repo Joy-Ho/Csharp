@@ -1,0 +1,15 @@
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\bin\Debug\net8.0\CountCharacterOfWord.exe
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\bin\Debug\net8.0\CountCharacterOfWord.deps.json
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\bin\Debug\net8.0\CountCharacterOfWord.runtimeconfig.json
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\bin\Debug\net8.0\CountCharacterOfWord.dll
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\bin\Debug\net8.0\CountCharacterOfWord.pdb
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\obj\Debug\net8.0\CountCharacterOfWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\obj\Debug\net8.0\CountCharacterOfWord.AssemblyInfoInputs.cache
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\obj\Debug\net8.0\CountCharacterOfWord.AssemblyInfo.cs
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\obj\Debug\net8.0\CountCharacterOfWord.csproj.CoreCompileInputs.cache
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\obj\Debug\net8.0\CountCharacterOfWord.sourcelink.json
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\obj\Debug\net8.0\CountCharacterOfWord.dll
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\obj\Debug\net8.0\refint\CountCharacterOfWord.dll
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\obj\Debug\net8.0\CountCharacterOfWord.pdb
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\obj\Debug\net8.0\CountCharacterOfWord.genruntimeconfig.cache
+C:\Users\admin\programming\Csharp\CountCharacterOfWord\CountCharacterOfWord\obj\Debug\net8.0\ref\CountCharacterOfWord.dll
