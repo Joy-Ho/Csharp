@@ -103,7 +103,6 @@ void RemoveToDo()
 
 void RemoveTodoAtIndex(int index)
 {
-    var indexOfTodo = index - 1;
     var todoToBeRemoved = todos[index];
     todos.RemoveAt(index);
     Console.WriteLine("TODO removed: " + todoToBeRemoved);
