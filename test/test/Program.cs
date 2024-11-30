@@ -1,11 +1,22 @@
-﻿Console.WriteLine("Enter the radius: ");
-bool tranfer = double.TryParse(Console.ReadLine(), out double r);
+﻿Random random = new Random();
+var RollDiceResult = random.Next(1, 7);
 
-double area = CalculateArea(r, out double circumference);
-Console.WriteLine($"area is {area}, and circumference is {circumference}");
 
-double CalculateArea(double radius, out double circumference)
+class Dice
 {
-    circumference = radius * 2 * Math.PI;
-    return radius * radius * Math.PI;
+    private const int diceSide = 6;
+    private int _dice;
+
+    public Dice(int dice)
+    {
+        _dice = dice;
+    }
+
+    public static int RollDice()
+    {
+        var random = new Random();
+        return random.Next(1, diceSide);
+    }
 }
+
+

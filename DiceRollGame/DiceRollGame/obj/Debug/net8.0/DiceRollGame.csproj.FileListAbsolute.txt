@@ -1,0 +1,15 @@
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfoInputs.cache
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.AssemblyInfo.cs
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.csproj.CoreCompileInputs.cache
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.sourcelink.json
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.exe
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.deps.json
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.runtimeconfig.json
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.dll
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\bin\Debug\net8.0\DiceRollGame.pdb
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.dll
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\refint\DiceRollGame.dll
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.pdb
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\DiceRollGame.genruntimeconfig.cache
+C:\Users\admin\programming\Csharp\DiceRollGame\DiceRollGame\obj\Debug\net8.0\ref\DiceRollGame.dll
