@@ -1,22 +1,64 @@
-﻿Random random = new Random();
-var RollDiceResult = random.Next(1, 7);
+﻿int seasonNumber = 0;
+Season spring = (Season)seasonNumber;
 
+int secondSeasonNumber = 1;
+Season summer = (Season)secondSeasonNumber;
+Console.WriteLine(summer);
 
-class Dice
+public enum Season
 {
-    private const int diceSide = 6;
-    private int _dice;
-
-    public Dice(int dice)
-    {
-        _dice = dice;
-    }
-
-    public static int RollDice()
-    {
-        var random = new Random();
-        return random.Next(1, diceSide);
-    }
+    Spring,
+    Summer,
+    Autumn,
+    Winter
 }
 
 
+public class Ingredient
+{
+    public Ingredient(int priceIfExtraTopping)
+    {
+        Console.WriteLine("Constructor from Ingredient class");
+        PriceIfExtraTopping = priceIfExtraTopping;
+    }
+
+    public int PriceIfExtraTopping {  get; }
+    public override string ToString() => Name;
+    public virtual string Name { get; } = "Some ingredient";
+}
+
+public class Cheddar : Ingredient
+{
+    public Cheddar(int priceIfExtraTopping, int agedForMonths):base(priceIfExtraTopping)
+    {
+        AgedForMonths = agedForMonths;
+        Console.WriteLine("Constructor from the Cheddar class");
+    }
+
+    public override string Name =>
+        $"{base.Name}, more specifically, a Cheddar cheese aged for {AgedForMonths} months";
+    public int AgedForMonths { get; }
+}
+
+public class Mozzarella : Ingredient
+{
+    public Mozzarella(int priceIfExtraTopping) : base(priceIfExtraTopping)
+    {
+    }
+
+    //public string Name => "Mozzarella";
+
+    public override string Name => "Mozzarella";
+    public bool IsLight { get; }
+}
+
+public class TomatoSauce : Ingredient
+{
+    public TomatoSauce(int priceIfExtraTopping) : base(priceIfExtraTopping)
+    {
+    }
+
+    //public string Name => "Tomato Sauce";
+    public override string Name => "Tomato sauce";
+    public int TomatoesIn100Grams {  get; }
+}
