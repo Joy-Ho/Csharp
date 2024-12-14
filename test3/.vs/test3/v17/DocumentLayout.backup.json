@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A5667EBE-15AA-4DB1-9654-EE73549701C5}|test3\\test3.csproj|c:\\users\\admin\\programming\\csharp\\test3\\test3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5667EBE-15AA-4DB1-9654-EE73549701C5}|test3\\test3.csproj|solutionrelative:test3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5667EBE-15AA-4DB1-9654-EE73549701C5}|test3\\test3.csproj|c:\\users\\admin\\programming\\csharp\\test3\\test3\\extensions\\listextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5667EBE-15AA-4DB1-9654-EE73549701C5}|test3\\test3.csproj|solutionrelative:test3\\extensions\\listextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5667EBE-15AA-4DB1-9654-EE73549701C5}|test3\\test3.csproj|c:\\users\\admin\\programming\\csharp\\test3\\test3\\extensions\\seasonextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5667EBE-15AA-4DB1-9654-EE73549701C5}|test3\\test3.csproj|solutionrelative:test3\\extensions\\seasonextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5667EBE-15AA-4DB1-9654-EE73549701C5}|test3\\test3.csproj|c:\\users\\admin\\programming\\csharp\\test3\\test3\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5667EBE-15AA-4DB1-9654-EE73549701C5}|test3\\test3.csproj|solutionrelative:test3\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\test3\\test3\\Extensions\\ListExtensions.cs",
+              "RelativeDocumentMoniker": "test3\\Extensions\\ListExtensions.cs",
+              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\test3\\test3\\Extensions\\ListExtensions.cs",
+              "RelativeToolTip": "test3\\Extensions\\ListExtensions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:39:29.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeasonExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\test3\\test3\\Extensions\\SeasonExtensions.cs",
+              "RelativeDocumentMoniker": "test3\\Extensions\\SeasonExtensions.cs",
+              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\test3\\test3\\Extensions\\SeasonExtensions.cs",
+              "RelativeToolTip": "test3\\Extensions\\SeasonExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:54:16.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\test3\\test3\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "test3\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\test3\\test3\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "test3\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:39:12.436Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "test3\\Program.cs",
               "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\test3\\test3\\Program.cs*",
               "RelativeToolTip": "test3\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T10:14:22.028Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.AssemblyInfoInputs.cache
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.AssemblyInfo.cs
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.csproj.CoreCompileInputs.cache
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.sourcelink.json
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\bin\Debug\net8.0\03_CookiesCookbook.exe
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\bin\Debug\net8.0\03_CookiesCookbook.deps.json
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\bin\Debug\net8.0\03_CookiesCookbook.runtimeconfig.json
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\bin\Debug\net8.0\03_CookiesCookbook.dll
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\bin\Debug\net8.0\03_CookiesCookbook.pdb
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.dll
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\obj\Debug\net8.0\refint\03_CookiesCookbook.dll
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.pdb
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\obj\Debug\net8.0\03_CookiesCookbook.genruntimeconfig.cache
+C:\Users\admin\programming\Csharp\03_CookiesCookbook\03_CookiesCookbook\obj\Debug\net8.0\ref\03_CookiesCookbook.dll
