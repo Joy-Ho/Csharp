@@ -1,0 +1,15 @@
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\bin\Debug\net8.0\01_ToDoList.exe
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\bin\Debug\net8.0\01_ToDoList.deps.json
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\bin\Debug\net8.0\01_ToDoList.runtimeconfig.json
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\bin\Debug\net8.0\01_ToDoList.dll
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\bin\Debug\net8.0\01_ToDoList.pdb
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\obj\Debug\net8.0\01_ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\obj\Debug\net8.0\01_ToDoList.AssemblyInfoInputs.cache
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\obj\Debug\net8.0\01_ToDoList.AssemblyInfo.cs
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\obj\Debug\net8.0\01_ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\obj\Debug\net8.0\01_ToDoList.sourcelink.json
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\obj\Debug\net8.0\01_ToDoList.dll
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\obj\Debug\net8.0\refint\01_ToDoList.dll
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\obj\Debug\net8.0\01_ToDoList.pdb
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\obj\Debug\net8.0\01_ToDoList.genruntimeconfig.cache
+C:\Users\admin\programming\Csharp\01_ToDoList\01_ToDoList\obj\Debug\net8.0\ref\01_ToDoList.dll
