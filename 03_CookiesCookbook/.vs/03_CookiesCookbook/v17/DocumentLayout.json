@@ -3,76 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\recipesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\recipesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\dataaccess\\stringsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\dataaccess\\stringsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\app\\recipesconsoleuserinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\app\\recipesconsoleuserinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\app\\irecipesuserinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\app\\irecipesuserinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\ingredients\\ingredientsregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\ingredients\\ingredientsregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\ingredients\\iingredientsregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\ingredients\\iingredientsregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\ingredients\\flour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\ingredients\\flour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\ingredients\\cocoapowder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\ingredients\\cocoapowder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\ingredients\\cinnamon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\ingredients\\cinnamon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\ingredients\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\ingredients\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\ingredients\\wheatflour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\ingredients\\wheatflour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\ingredients\\sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\ingredients\\sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\ingredients\\spice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\ingredients\\spice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\ingredients\\speltflour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\ingredients\\speltflour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\dataaccess\\stringstextualrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\dataaccess\\stringstextualrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\ingredients\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\ingredients\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\ingredients\\butter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\ingredients\\butter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\ingredients\\cardamom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\ingredients\\cardamom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\recipes\\recipesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\recipes\\recipesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\dataaccess\\stringsjsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\dataaccess\\stringsjsonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|c:\\users\\admin\\programming\\csharp\\03_cookiescookbook\\03_cookiescookbook\\dataaccess\\istringsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A5082B-06B4-4692-A3B4-A6EF33377F45}|03_CookiesCookbook\\03_CookiesCookbook.csproj|solutionrelative:03_cookiescookbook\\dataaccess\\istringsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,240 +38,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RecipesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\RecipesRepository.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\RecipesRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\RecipesRepository.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\RecipesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:29:54.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Recipe.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Recipe.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\Recipe.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Recipe.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\Recipe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:29:46.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RecipesConsoleUserInteraction.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\App\\RecipesConsoleUserInteraction.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\App\\RecipesConsoleUserInteraction.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\App\\RecipesConsoleUserInteraction.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\App\\RecipesConsoleUserInteraction.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAIA/wAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:29:25.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IRecipesUserInteraction.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\App\\IRecipesUserInteraction.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\App\\IRecipesUserInteraction.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\App\\IRecipesUserInteraction.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\App\\IRecipesUserInteraction.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAIA3wAwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:29:16.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Chocolate.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Chocolate.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\Ingredients\\Chocolate.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Chocolate.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\Ingredients\\Chocolate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:25:24.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Cinnamon.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Cinnamon.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\Ingredients\\Cinnamon.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Cinnamon.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\Ingredients\\Cinnamon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:25:34.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CocoaPowder.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\CocoaPowder.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\Ingredients\\CocoaPowder.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\CocoaPowder.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\Ingredients\\CocoaPowder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:25:45.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Flour.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Flour.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\Ingredients\\Flour.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Flour.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\Ingredients\\Flour.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:25:53.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IIngredientsRegister.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\IIngredientsRegister.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\Ingredients\\IIngredientsRegister.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\IIngredientsRegister.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\Ingredients\\IIngredientsRegister.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:26:00.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IngredientsRegister.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\IngredientsRegister.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\Ingredients\\IngredientsRegister.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\IngredientsRegister.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\Ingredients\\IngredientsRegister.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:26:20.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Program.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Program.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIBAwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T02:01:54.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WheatFlour.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\WheatFlour.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\Ingredients\\WheatFlour.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\WheatFlour.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\Ingredients\\WheatFlour.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:27:07.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Sugar.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Sugar.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\Ingredients\\Sugar.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Sugar.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\Ingredients\\Sugar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:26:59.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Spice.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Spice.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\Ingredients\\Spice.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Spice.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\Ingredients\\Spice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:26:49.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SpeltFlour.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\SpeltFlour.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\Ingredients\\SpeltFlour.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\SpeltFlour.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\Ingredients\\SpeltFlour.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:26:28.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Ingredient.cs",
               "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Ingredient.cs",
               "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\Ingredients\\Ingredient.cs",
               "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Ingredient.cs",
               "RelativeToolTip": "03_CookiesCookbook\\Recipes\\Ingredients\\Ingredient.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:26:09.843Z",
+              "WhenOpened": "2024-12-15T13:10:23.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Butter.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Butter.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\Ingredients\\Butter.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Butter.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\Ingredients\\Butter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "StringsTextualRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\DataAccess\\StringsTextualRepository.cs",
+              "RelativeDocumentMoniker": "03_CookiesCookbook\\DataAccess\\StringsTextualRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\DataAccess\\StringsTextualRepository.cs",
+              "RelativeToolTip": "03_CookiesCookbook\\DataAccess\\StringsTextualRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:24:56.679Z",
+              "WhenOpened": "2024-12-15T11:16:31.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Cardamom.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Cardamom.cs",
-              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\Ingredients\\Cardamom.cs",
-              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\Ingredients\\Cardamom.cs",
-              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\Ingredients\\Cardamom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "StringsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\DataAccess\\StringsRepository.cs",
+              "RelativeDocumentMoniker": "03_CookiesCookbook\\DataAccess\\StringsRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\DataAccess\\StringsRepository.cs",
+              "RelativeToolTip": "03_CookiesCookbook\\DataAccess\\StringsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T03:25:16.011Z",
+              "WhenOpened": "2024-12-15T10:24:04.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStringsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\DataAccess\\IStringsRepository.cs",
+              "RelativeDocumentMoniker": "03_CookiesCookbook\\DataAccess\\IStringsRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\DataAccess\\IStringsRepository.cs",
+              "RelativeToolTip": "03_CookiesCookbook\\DataAccess\\IStringsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:16:01.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StringsJsonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\DataAccess\\StringsJsonRepository.cs",
+              "RelativeDocumentMoniker": "03_CookiesCookbook\\DataAccess\\StringsJsonRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\DataAccess\\StringsJsonRepository.cs",
+              "RelativeToolTip": "03_CookiesCookbook\\DataAccess\\StringsJsonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:23:42.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecipesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\RecipesRepository.cs",
+              "RelativeDocumentMoniker": "03_CookiesCookbook\\Recipes\\RecipesRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Recipes\\RecipesRepository.cs",
+              "RelativeToolTip": "03_CookiesCookbook\\Recipes\\RecipesRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:20:00.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Program.cs",
+              "RelativeDocumentMoniker": "03_CookiesCookbook\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\programming\\Csharp\\03_CookiesCookbook\\03_CookiesCookbook\\Program.cs",
+              "RelativeToolTip": "03_CookiesCookbook\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:01:54.454Z",
               "EditorCaption": ""
             }
           ]

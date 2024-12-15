@@ -4,7 +4,7 @@ using CookieCookbook.FileAccess;
 using CookieCookbook.Recipes;
 using CookieCookbook.Recipes.Ingredients;
 
-const FileFormat Format = FileFormat.Json;
+const FileFormat Format = FileFormat.Txt;
 
 IStringsRepository stringsRepository = Format == FileFormat.Json ?
     new StringsJsonRepository() :
